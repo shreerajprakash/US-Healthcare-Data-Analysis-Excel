@@ -27,7 +27,7 @@ I used Excel tools to clean data, analyse trends, and build an interactive dashb
 - Raw Dataset (.xlsx)
 - Cleaned Dataset (.xlsx)
 - Dashboard Screenshot (.png)
-- Dataset with Dashboard (.xlsx)
+- Interactive Dashboard (.xlsx)
 
 ## What I Learned
 - Data cleaning in Excel
